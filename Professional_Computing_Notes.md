@@ -109,7 +109,7 @@
 - Contracts Law $\checkmark$
 - Employment Law $\checkmark$
 - The Internet - Responsibility of ISPs, Defamation, etc. $\checkmark$
-- Ethics and Professionalism 
+- Ethics and Professionalism $\checkmark$
 
 ---
 
