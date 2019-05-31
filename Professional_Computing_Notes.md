@@ -4,9 +4,9 @@
       - [Disruptive Innovation - an innovation that helps create a new market and value network, eventually disrupts existing market and value network, displacing all earlier technology.](#disruptive-innovation---an-innovation-that-helps-create-a-new-market-and-value-network-eventually-disrupts-existing-market-and-value-network-displacing-all-earlier-technology)
   - [Legal Perspectives](#legal-perspectives)
     - [Criminal vs. Civil Law](#criminal-vs-civil-law)
-      - [Criminal](#criminal)
+      - [Criminal Law](#criminal-law)
       - [Civil Law](#civil-law)
-      - [Tort - In Common Law, a Tort is a 'civil wrong'.](#tort---in-common-law-a-tort-is-a-civil-wrong)
+      - [Torts](#torts)
       - [Legalisation](#legalisation)
       - [Appeal](#appeal)
   - [Computer Misuse Act of 1990 (CMA)](#computer-misuse-act-of-1990-cma)
@@ -14,8 +14,8 @@
       - [1. Unauthorised access to a computer](#1-unauthorised-access-to-a-computer)
       - [2. Intent to commit a serious crime](#2-intent-to-commit-a-serious-crime)
       - [3. Unauthorised Modification](#3-unauthorised-modification)
-      - [Review of CMA](#review-of-cma)
-      - [Issues with CMA](#issues-with-cma)
+    - [Review of CMA](#review-of-cma)
+    - [Issues with CMA](#issues-with-cma)
     - [Serious Crime Act of 2015](#serious-crime-act-of-2015)
   - [Data Protection Act of 1984 (DPA)](#data-protection-act-of-1984-dpa)
     - [Major revision in 1998](#major-revision-in-1998)
@@ -93,7 +93,7 @@
       - [Categorical Imperative (Kant)](#categorical-imperative-kant)
     - [The Golden Rule](#the-golden-rule)
   
----
+___
 
 
 
@@ -119,7 +119,7 @@
 
 ### Criminal vs. Civil Law 
 ___
-#### Criminal 
+#### Criminal Law 
 ___ 
 - Designed to protect "society" from wrong doers 
 - Police investigation and arrest.
@@ -136,7 +136,8 @@ ___
 - Litigation is usually brought with the goal of obtaining damages ($$) or an injunction (court order).
 ___
 
-#### Tort - In Common Law, a Tort is a 'civil wrong'. 
+#### Torts
+- In Common Law, a Tort is a 'civil wrong'. 
 - The action might not be necessarily illegal/ criminal but has still caused harm. Such harm can be addressed by courts 
 - Torts-based litigation is usually solved through the awarding of damages.
   - Negligence - Duty of care, the plaintiff suffered damages as a result of the negligence of the defendant. 
@@ -152,7 +153,7 @@ ___
   - Possible to overturn convictions/ court decisions based on appeal where new evidence can be presented and a new verdict given which can overturn or affirm a previous ruling.
 ___
 ## Computer Misuse Act of 1990 (CMA)
-
+___
 ### 3 Offences: 
 ___
 1. Unauthorised access to a computer .
@@ -160,7 +161,6 @@ ___
 3. Unauthorised modification of the contents of a computer. 
 
 #### 1. Unauthorised access to a computer
-___
 A person is guilty iff :
 - They cause a computer to perform any function with intent to secure access to any program or data held in any computer 
 - The access he intends to secure is unauthorised
@@ -173,14 +173,14 @@ A person is guilty iff :
 
 
 #### 2. Intent to commit a serious crime
-___
+
 - eg. a blackmailer might hack into an email account to gain evidence of an affair 
 - It is not necessary for the more serious crime to be carried out as long as intent to do so can be shown. 
 - Punishable by 5 years imprisonment or an unlimited fine 
 
 
 #### 3. Unauthorised Modification 
-___
+
 A person is guilty of an offence iff:
 - They carry out any act which causes an unauthorised modification of the contents of any computer.
 - At the time they carry out the act they have the requisite intent and knowledge.
@@ -194,22 +194,24 @@ A person is guilty of an offence iff:
   - Encrypting files and demanding a ransom for revealing the key 
   - Redirection of a browser to certain pages. 
 ___
-#### Review of CMA
-
+### Review of CMA
+___
 - All party review of the act
 - Input from professional bodies 
 - Added an additional offence 
-  - Imparting access to data 
+  - Impairing access to data 
   - Motivated by DDOS attacks 
-- Increased tariff for unauthorised access (2) from 6 months to 2 years imprisonment 
+- Increased tariff for unauthorised access (1) from 6 months to 2 years imprisonment 
   - To show this is a serious crime
   - A crime which is extraditable under UK law.
-- Still relatively few prosecutions under CMA  **CHECK THIS 2015/16 NOTES**
+- Still relatively few prosecutions under CMA 
 ___
-#### Issues with CMA 
+### Issues with CMA 
+___
 - Common view is that the real issue with Computer crime is a lack of resources for investigation and prosecution other than laws.
-
+___
 ### Serious Crime Act of 2015 
+___
 - Created to alleviate pressures from EU law makers 
 
 - Resulted in 2 main amendments to the CMA: 
@@ -221,7 +223,7 @@ ___
 ___
 ## Data Protection Act of 1984 (DPA)
 ___
-- Major concerns about large amounts of dta being collected about people 
+- Major concerns about large amounts of data being collected about people 
 - Data being used for reasons other than why is was originally collected 
 - The DPA is designed to protect individuals against:
   - The use of inaccurate / incomplete personal information 
@@ -234,14 +236,14 @@ ___
 - Processing = *Obtaining, recording or holding data or carrying out any operation on it*
 
 - Data Controller = *Who controls why or how data is processed*
-- Data Processor = *Anybody who processes the dta on behalf of the controller*
+- Data Processor = *Anybody who processes the data on behalf of the controller*
 - Personal Data = *Data which relates to a living person who can be identified using this data (possibly with other data the Controller might have)*
 - Sensitive Data = *Personal Data having racial, ethnic, religious, political or sexual aspects of a person*
 
 ### General Data Protection Regulation (GDPR) 
 - Next major revision 
 - Focus is on the protection of personal data
-- Aims for consistency accross Europe 
+- Aims for consistency across Europe 
 - Technology has changed drastically since 1998
 - Emphasis on transparency, accountability and awareness
 - Should give more control to a person's own data
@@ -271,7 +273,7 @@ ___
    - Schedule 3 - Explicit consent is given 
 
 2. **Purpose**
-   - Personal Data shall be obtained only for one or more **specified** purposes, and shall no tbe further processed in any manner incompatible with that purpose(s)
+   - Personal Data shall be obtained only for one or more **specified** purposes, and shall not be further processed in any manner incompatible with that purpose(s)
      - Data cannot be collected *"just in case it's useful"*
 
 3. **Data Minimisation**
@@ -921,14 +923,14 @@ ___
 ### Defamation
 ___
 - Covers statements which damage a person's reputation 
-- In english law:
+- In English law:
   - Slander = spoken defamation
   - Libel = written defamation 
 
 - Defamation act of 1996 defends anybody who: 
   - is not the author, editor or publisher or
   - took responsible care in relation to publication 
-  - Did not know, and had no reason to believe the publication constituded a defamatory statement 
+  - Did not know, and had no reason to believe the publication constituted a defamatory statement 
 ___
 ### Pornography 
 ___
@@ -945,7 +947,7 @@ or embodied in it."*
 
 ##### Child Pornography 
 
-- Protect of Children act of 1978
+- Protection of Children act of 1978
   - serious criminal offence
   - mere possession is an offence
   - does not need to be obscene
@@ -960,7 +962,7 @@ ___
 ### Internet Watch Foundation 
 ___
 - UK body formed in 1996
-- Suported by government, police and ISPs 
+- Supported by government, police and ISPs 
 
 - Monitors and takes action against offensive internet content
   - eg.:
@@ -1130,16 +1132,17 @@ ___
 2. Act so as to treat human beings always as ends and never as means 
 3. Act as if you were a member of a realm of ends 
    1. Act as a member of a community
-   2. All of whom treat eachother as ends rather than  means 
+   2. All of whom treat each-other as ends rather than  means 
    3. All of whom decide as if they were legislating for all 
 
 ___
 ### The Golden Rule
-
+___
 - One should treat other as one would like other to treat oneself 
 - One should not treat others in ways that one would not like to be treated. 
-
 ___
+___
+
     
 
 
