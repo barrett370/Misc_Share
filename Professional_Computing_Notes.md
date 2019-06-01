@@ -98,7 +98,6 @@ ___
 
 
 
-
 ## Topics
 
 - English Law(Civil, Criminal, Tort) $\checkmark$
@@ -349,10 +348,10 @@ ___
 ### Issues with the FOI Act
 
 - Potential conflicts between FOI requests and GDPR/DPA in cases where there is personal data 
-- Usually, FOI requests must be answered within one mont of receipt
+- Usually, FOI requests must be answered within one month of receipt
   - sometimes impossible 
   - FOI requests have been used to "punish" perceived slights 
-  - Pubic organisations need to develop the necessary infrastructure to handle FOI requests. Often this cost is passed via FOI request charge 
+  - Public organisations need to develop the necessary infrastructure to handle FOI requests. Often this cost is passed via FOI request charge 
  
  ## Intellectual Property (IP)
  ___
